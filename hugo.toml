@@ -1,5 +1,3 @@
-theme = "pehtheme-hugo"
-
 baseURL = 'https://pehtheme-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'Quiet Spice'
